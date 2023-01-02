@@ -12,6 +12,8 @@ dependencies:
     sdk: flutter
   users_api:
     path: ../../../server
+  users_api_grpc:
+    path: ../../../users-api
 
 dev_dependencies:
   flutter_test:

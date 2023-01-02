@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:users_api/api.dart';
-import 'package:users_repository/users_repository.dart';
+import 'package:users_api_grpc/users_api.dart';
+import 'package:users_repository/repository.dart';
 
 part 'users_event.dart';
 part 'users_state.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:app/users/users.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:users_repository/users_repository.dart';
+import 'package:users_repository/repository.dart';
 
 class UsersRoute extends StatelessWidget {
   const UsersRoute({Key? key}) : super(key: key);
